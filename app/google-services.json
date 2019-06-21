@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "90665514124",
+    "firebase_url": "https://gochatup-3350f.firebaseio.com",
+    "project_id": "gochatup-3350f",
+    "storage_bucket": "gochatup-3350f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90665514124:android:9e77bfdf0d7bc137",
+        "android_client_info": {
+          "package_name": "android.jhaniteshkumar.com.gochatup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90665514124-aoulugjla695q7gmcvmljq78n3fmpml0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.jhaniteshkumar.com.gochatup",
+            "certificate_hash": "124c58a276f419acc1f6f3e166c252f52648e7fe"
+          }
+        },
+        {
+          "client_id": "90665514124-agj4gfc093uslobo2ie8jg7htp5o1be1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATTORnoebT_1Jj3UVWRRVxGayBe2227dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90665514124-agj4gfc093uslobo2ie8jg7htp5o1be1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
