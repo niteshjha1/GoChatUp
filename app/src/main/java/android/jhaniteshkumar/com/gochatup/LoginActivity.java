@@ -25,6 +25,8 @@ public class LoginActivity extends AppCompatActivity {
 
    FirebaseAuth auth;
 
+   // Testing Testing ;;;;;;;;;;;;;;;;;;;;;;
+
 
    @Override
     protected void onCreate(Bundle savedInstanceState) {
