@@ -25,7 +25,8 @@ public class LoginActivity extends AppCompatActivity {
 
    FirebaseAuth auth;
 
-   // Testing Testing ;;;;;;;;;;;;;;;;;;;;;;
+
+    // Testing Testing ;;;;;;;;;;;;;;;;;;;;;;
 
 
    @Override
